@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Database xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="school" EntityNamespace="school" ContextNamespace="school" Class="School" BaseType="DbLinq.Data.Linq.DataContext" Provider="MySql" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Table Name="school.students" Member="Students">
+    <Type Name="Students" />
+  </Table>
+</Database>
